@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    background-color: #000;
+    background-color: rgb(155, 152, 152);
     margin: 0;
     height: 100%;
     display: flex;
